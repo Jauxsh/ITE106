@@ -4,9 +4,9 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 
 public class Main {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) throws FileNotFoundException {
         File file = new File("JauxshFile.txt");
-        BufferedReader br = new BufferedReader(new FileReader(file));
+        BufferedReader br = new BufferedReader(new FileReader(file)); //'br' acronym means BufferedReader
 
         String line;
         while ((line = br.readLine()) != null) {
