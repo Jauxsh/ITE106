@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.io.FileNotFoundException;
 
 public class Main {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) throws FileNotFoundException {
         File myFile = new File("JauxshFile.txt");
         Scanner fileScanner = new Scanner(myFile);
         
