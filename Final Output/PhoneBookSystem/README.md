@@ -20,7 +20,7 @@ Add Contacts: Save a new contact by providing a name and a phone number.
 * Select Contact: Choose a contact to view and edit their details.
 * Validation: Ensures phone numbers are valid (must start with 09 and be 11 digits long).
 * Persistent Storage: Contacts are stored in phonebook.txt for future use.
-##User-Friendly Interface:
+## User-Friendly Interface:
 * Warm and welcoming purple-themed design.
 * Easy-to-use buttons and fields.
 
