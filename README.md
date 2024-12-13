@@ -17,8 +17,7 @@ ITE106 [GITHUB]
 │   ├── Bicycle
 │   ├── MenuBar
 │   ├── PackageActivity
-│   ├── TextFile01TextAnalyzer
-│   └── README.md
+│   └── TextFile01TextAnalyzer
 ├── Examples
 ├── Final Output
 │   ├── CalculatorFinal
