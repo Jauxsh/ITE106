@@ -18,6 +18,8 @@ ITE106 [GITHUB]
 │   ├── MenuBar
 │   ├── PackageActivity
 │   └── TextFile01TextAnalyzer
+├── Exam
+│   ├──PayrollSystem
 ├── Examples
 ├── Final Output
 │   ├── CalculatorFinal
