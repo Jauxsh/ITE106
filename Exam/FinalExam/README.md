@@ -31,4 +31,4 @@ A user-friendly **Payroll System** built with Java Swing. This application allow
 * If payrollrecords.txt does not exist, it will be created automatically in the same directory as the application.
 * All payroll information is stored locally and not shared.
 
-# Enjoy managing your payrolls efficiently with the Payroll System!
+## Enjoy managing your payrolls efficiently with the Payroll System!
