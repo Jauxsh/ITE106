@@ -19,7 +19,8 @@ ITE106 [GITHUB]
 │   ├── PackageActivity
 │   └── TextFile01TextAnalyzer
 ├── Exam
-│   ├──PayrollSystem
+│   ├──FinalExam
+│   └──HANDS-ON MIDTERM
 ├── Examples
 ├── Final Output
 │   ├── CalculatorFinal
